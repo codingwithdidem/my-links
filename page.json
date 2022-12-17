@@ -1,26 +1,26 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Didem Küçükkaraaslan",
+  "description": "Frontend Developer @SpikyAI",
+  "image_url": "https://pbs.twimg.com/profile_images/1585152388851273728/VbwyNOR7_400x400.jpg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
+      "url": "https://linkedin.com/in/didem-k%C3%BCc%C3%BCkkaraaslan-2a2a23140/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/codingwithdidem",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/DidemKkkaraasl1",
       "icon": "twitter"
     },
     {
       "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
+      "url": "https://instagram.com/didemk95",
       "icon": "instagram"
     }
   ]
